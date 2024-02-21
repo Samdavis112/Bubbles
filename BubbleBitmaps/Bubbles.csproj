@@ -67,7 +67,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ClickOnce\TextFile1.txt" />
     <Content Include="Image1.bmp" />
     <Content Include="Image1_INVERT - Copy.bmp" />
     <Content Include="Image1_INVERT.bmp" />
